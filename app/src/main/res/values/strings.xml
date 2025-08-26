@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="news_title">The most powerful rocket ever built is set for its next test. Here’s why some experts are worried</string>
+    <string name="news_content">
+        The most powerful rocket system ever constructed is headed for its next test — using a version of the vehicle that has been at the center of a series of explosive missteps and failures.
+
+SpaceX said it is aiming to launch its Starship megarocket on an hour-long test flight as soon as 7:30 p.m. ET Sunday, though the liftoff time is subject to change. A webcast of the event is expected to begin about 30 minutes earlier, according to the company.
+
+The uncrewed Starship prototype will follow a similar flight plan to the last three missions and aim to complete test objectives left untried during those tests, all of which ended prematurely. SpaceX debuted the current generation of Starship vehicles in January, following a clean run of test missions with a slightly scaled-down version of the rocket in 2024.
+
+But since that debut, the vehicle has twice exploded over populated islands east of Florida, creating debris that hit roadways in Turks and Caicos and washed up onto the shores of Bahamian islands. The spacecraft also spun out of control as it headed toward its landing site in the Indian Ocean on its last test flight in May.
+
+        Then, in June, a Starship spacecraft that had been strapped to an engine testing stand at the company’s launch and development facilities in South Texas abruptly exploded — spewing shrapnel and causing damage to SpaceX infrastructure.
+
+These setbacks roused long-standing SpaceX critics and attracted new ones, including the Mexican government, which has threatened legal action against the company over reported debris on and around its shores. The UK government also said in a statement Thursday that it’s been “working closely with US Government partners to protect the safety” of its overseas territories, including Turks and Caicos.
+
+        The string of mishaps this year has also raised concerns among spaceflight experts and stakeholders who have emphasized that the United States has a lot riding on Starship’s eventual success, including its plans to return humans to the moon as soon as 2027.
+
+And that success is not guaranteed.
+
+“It’s very, very difficult to predict how this is going to end up,” said Garrett Reisman, a former NASA astronaut and SpaceX consultant who is a professor of astronautical engineering at the University of Southern California.
+
+“I think it could end up never working, or it could end up revolutionizing our entire future of activities in space — and geopolitics,” he added, referring to the US goal of displaying technical superiority to China in a new space race.
+    </string>
+</resources>
